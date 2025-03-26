@@ -7,7 +7,7 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" alt="Get it on Google Play" width="200">
     </a>
     <a href="https://www.amazon.com/dp/B0F2HFPBKP">
-        <img src="https://raw.githubusercontent.com/polarisvortex/polarisvortex/main/amazon-badge.png" alt="Get it on Amazon" width="200">
+        <img src="https://raw.githubusercontent.com/polarisvortex/polarisvortex/main/amazon-badge.png" alt="Get it on Amazon" width="180">
     </a>
 </p>
 
