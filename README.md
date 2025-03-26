@@ -1,15 +1,10 @@
 ## Hi there 👋  
 
 # 🚀 Polaris Vortex - Explore Our Apps & Games  
-
-<p align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-    <a href="https://play.google.com/store/apps/developer?id=Polaris+Vortex">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" alt="Get it on Google Play" width="200">
-    </a>
-    <a href="https://www.amazon.com/dp/B0F2HFPBKP">
-        <img src="https://raw.githubusercontent.com/polarisvortex/polarisvortex/main/amazon-badge.png" alt="Get it on Amazon" width="180">
-    </a>
-</p>
+[![Get it on Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/developer?id=Polaris+Vortex)  
+<a href="https://www.amazon.com/dp/B0F2HFPBKP">
+    <img src="https://raw.githubusercontent.com/polarisvortex/polarisvortex/main/amazon-badge.png" alt="Get it on Amazon" width="200">
+</a>
 
 📲 **Discover All Our Apps & Games:**  
 👉 [Google Play Store - Polaris Vortex](https://play.google.com/store/apps/developer?id=Polaris+Vortex)  
