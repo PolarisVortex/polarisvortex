@@ -2,7 +2,9 @@
 
 # 🚀 Polaris Vortex - Explore Our Apps & Games  
 [![Get it on Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/developer?id=Polaris+Vortex)  
-[![Get it on Amazon](https://raw.githubusercontent.com/polarisvortex/polarisvortex/main/amazon-badge.png)](https://www.amazon.com/dp/B0F2HFPBKP)  
+<a href="https://www.amazon.com/dp/B0F2HFPBKP">
+    <img src="https://raw.githubusercontent.com/polarisvortex/polarisvortex/main/amazon-badge.png" alt="Get it on Amazon" width="200">
+</a>
 
 📲 **Discover All Our Apps & Games:**  
 👉 [Google Play Store - Polaris Vortex](https://play.google.com/store/apps/developer?id=Polaris+Vortex)  
