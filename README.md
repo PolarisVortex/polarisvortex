@@ -5,11 +5,11 @@
 <a href="https://www.amazon.com/dp/B0F2HFPBKP">
     <img src="https://raw.githubusercontent.com/polarisvortex/polarisvortex/main/amazon-badge.png" alt="Get it on Amazon" width="200">
 </a>  
-<a href="https://appgallery.huawei.com/#/app/C123456">
+<a href="https://appgallery.huawei.com/">
     <img src="https://raw.githubusercontent.com/polarisvortex/polarisvortex/main/hua-badge.png" alt="Get it on Huawei AppGallery" width="200">
 </a>  
-<a href="https://galaxystore.samsung.com/developer/PolarisVortex">
-    <img src="https://developer.samsung.com/assets/images/badges/galaxy-store_badge_english.png" alt="Get it on Samsung Galaxy Store" width="200">
+<a href="https://galaxystore.samsung.com/">
+    <img src="https://raw.githubusercontent.com/polarisvortex/polarisvortex/main/galaxy-badge.jpg" alt="Get it on Samsung Galaxy Store" width="200">
 </a>  
 
 📲 **Discover All Our Apps & Games:**  
