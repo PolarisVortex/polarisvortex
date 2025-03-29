@@ -30,12 +30,12 @@
 
 ## 🌟 About  
 Welcome to **Polaris Vortex**, where we create **innovative apps and games**! 🎮📱  
-Explore our latest creations on **Google Play, Amazon App Store, Huawei AppGallery,** and **Samsung Galaxy Store** today.  
+Explore our latest creations on **Google Play, Amazon Appstore, Huawei AppGallery,** and **Samsung Galaxy Store** today.  
 
 ---
 
 ## 📦 How to Download  
-1️⃣ Click the **Google Play, Amazon, Huawei, or Samsung Galaxy Store** link above ☝️  
+1️⃣ Click the **Google Play, Amazon Appstore, Huawei AppGallery, or Samsung Galaxy Store** link above ☝️  
 2️⃣ Explore and choose any app  
 3️⃣ Tap **Install** and start enjoying! 🚀  
 
