@@ -6,10 +6,10 @@
     <img src="https://raw.githubusercontent.com/polarisvortex/polarisvortex/main/amazon-badge.png" alt="Get it on Amazon" width="200">
 </a>  
 <a href="https://appgallery.huawei.com/#/app/C123456">
-    <img src="https://raw.githubusercontent.com/polarisvortex/polarisvortex/main/huawei-badge.png" alt="Get it on Huawei AppGallery" width="200">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Huawei_AppGallery_badge_EN.png" alt="Get it on Huawei AppGallery" width="200">
 </a>  
 <a href="https://galaxystore.samsung.com/developer/PolarisVortex">
-    <img src="https://raw.githubusercontent.com/polarisvortex/polarisvortex/main/samsung-badge.png" alt="Get it on Samsung Galaxy Store" width="200">
+    <img src="https://developer.samsung.com/assets/images/badges/galaxy-store_badge_english.png" alt="Get it on Samsung Galaxy Store" width="200">
 </a>  
 
 📲 **Discover All Our Apps & Games:**  
@@ -34,4 +34,3 @@ Explore our latest creations on **Google Play, Amazon App Store, Huawei AppGalle
 ---
 
 © 2025 **Polaris Vortex**. All rights reserved.  
-
