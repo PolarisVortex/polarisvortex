@@ -9,7 +9,7 @@
     <a href="https://www.amazon.com/dp/B0F3W7PFT6/">
         <img src="https://raw.githubusercontent.com/polarisvortex/polarisvortex/main/badges/azn-badge.png" alt="Get it on Amazon" width="200">
     </a>
-    <a href="https://appgallery.huawei.com/app/113892749">
+    <a href="https://appgallery.huawei.com/app/C113892749">
         <img src="https://raw.githubusercontent.com/polarisvortex/polarisvortex/main/badges/hua-badge.png" alt="Get it on Huawei AppGallery" width="200">
     </a>
     <a href="https://galaxystore.samsung.com/">
@@ -23,7 +23,7 @@
 📲 **Discover All Our Apps & Games:**  
 👉 [Google Play Store - Polaris Vortex](https://play.google.com/store/apps/developer?id=Polaris+Vortex)  
 👉 [Amazon App Store - Polaris Vortex](https://www.amazon.com/dp/B0F3W7PFT6/)  
-👉 [Huawei AppGallery - Polaris Vortex](https://appgallery.huawei.com/app/113892749)  
+👉 [Huawei AppGallery - Polaris Vortex](https://appgallery.huawei.com/app/C113892749)  
 👉 [Samsung Galaxy Store - Polaris Vortex](https://galaxystore.samsung.com/)  
 
 ---
