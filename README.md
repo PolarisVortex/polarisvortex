@@ -18,13 +18,6 @@
 </div>  
 
 &nbsp;  
-&nbsp;  
-
-📲 **Discover All Our Apps & Games:**  
-👉 [Google Play Store - Polaris Vortex](https://play.google.com/store/apps/developer?id=Polaris+Vortex)  
-👉 [Amazon App Store - Polaris Vortex](https://www.amazon.com/dp/B0F3W7PFT6/)  
-👉 [Huawei AppGallery - Polaris Vortex](https://appgallery.huawei.com/app/C113892749)  
-👉 [Samsung Galaxy Store - Polaris Vortex](https://galaxystore.samsung.com/)  
 
 ---
 
