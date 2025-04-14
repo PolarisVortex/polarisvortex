@@ -10,7 +10,7 @@
         <img src="https://raw.githubusercontent.com/polarisvortex/polarisvortex/main/badges/amazon.png" alt="Get it on Amazon" width="200">
     </a>
     <a href="https://appgallery.huawei.com/app/C113892749">
-        <img src="https://raw.githubusercontent.com/polarisvortex/polarisvortex/main/badges/hua-badge.png" alt="Get it on Huawei AppGallery" width="200">
+        <img src="https://raw.githubusercontent.com/polarisvortex/polarisvortex/main/badges/appgallery.png" alt="Get it on Huawei AppGallery" width="200">
     </a>
     <a href="https://galaxystore.samsung.com/">
         <img src="https://raw.githubusercontent.com/polarisvortex/polarisvortex/main/badges/galaxy-badge.jpg" alt="Get it on Samsung Galaxy Store" width="200">
