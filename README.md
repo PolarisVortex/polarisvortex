@@ -13,7 +13,7 @@
         <img src="https://raw.githubusercontent.com/polarisvortex/polarisvortex/main/badges/appgallery.png" alt="Get it on Huawei AppGallery" width="200">
     </a>
     <a href="https://galaxystore.samsung.com/">
-        <img src="https://raw.githubusercontent.com/polarisvortex/polarisvortex/main/badges/GalaxyStore.png" alt="Get it on Samsung Galaxy Store" width="400">
+        <img src="https://raw.githubusercontent.com/polarisvortex/polarisvortex/main/badges/GalaxyStore.png" alt="Get it on Samsung Galaxy Store" width="250">
     </a>
 </div>  
 
