@@ -9,7 +9,7 @@
     <a href="https://www.amazon.com/dp/B0F3W7PFT6/">
         <img src="https://raw.githubusercontent.com/polarisvortex/polarisvortex/main/badges/amazon.png" alt="Get it on Amazon" width="200">
     </a>
-    <a href="https://appgallery.huawei.com/app/C113892749">
+    <a href="https://appgallery.huawei.com/app/C115872671">
         <img src="https://raw.githubusercontent.com/polarisvortex/polarisvortex/main/badges/appgallery.png" alt="Get it on Huawei AppGallery" width="200">
     </a>
     <a href="https://galaxystore.samsung.com/">
